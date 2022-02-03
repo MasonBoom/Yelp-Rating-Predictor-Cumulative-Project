@@ -1,4 +1,4 @@
-# Yelp-Rating-Predictor-Cumulative-Project
+# Yelp Rating Predictor Cumulative Project
 This is a linear regression porject that was made using a real dataset from Yelp. This project was part of Codecademy's "Learn the Basics of Machine Learning" course.
 
 This project was created using 
