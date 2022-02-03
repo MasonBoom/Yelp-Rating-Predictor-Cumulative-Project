@@ -7,6 +7,9 @@ This project was created using
 - Python 3
 - Matplotlib
 - Anaconda 3
+- Pandas
+- Numpy
+- Sklearn
 
 I could not upload yelp's dataset because it is too large to be uploaded to a Github repository, but it can be downloaded uaing the following link:
 
